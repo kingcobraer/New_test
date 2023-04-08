@@ -66,7 +66,7 @@ with col2:
     '# 第四行'
 with col1:
     st.image("https://static.streamlit.io/examples/dog.jpg")
-    st.image(Image.open(r"C:\Users\Eric Zhang\Pictures\Screenpresso\2022-08-01_22h34_39.gif"))
+#   st.image(Image.open(r"C:\Users\Eric Zhang\Pictures\Screenpresso\2022-08-01_22h34_39.gif"))
 
 # st.line_chart(df)
 # st.bar_chart(df)
@@ -75,11 +75,12 @@ st.button("这是一个按钮")
 
 st.balloons()
 
-st.video(open(r"C:\Users\Eric Zhang\Pictures\Screenpresso\1月14日抢购记录.mp4", "rb").read())
+# st.video(open(r"C:\Users\Eric Zhang\Pictures\Screenpresso\1月14日抢购记录.mp4", "rb").read())
 
 with st.echo():
     st.write('This code will be printed')
 
 '# 这是一个gitHub 的测试 第一版'
+'# 这是一个gitHub 的测试 第二版'
 
 
