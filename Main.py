@@ -80,4 +80,6 @@ st.video(open(r"C:\Users\Eric Zhang\Pictures\Screenpresso\1月14日抢购记录.
 with st.echo():
     st.write('This code will be printed')
 
+'# 这是一个gitHub 的测试 第一版'
+
 
